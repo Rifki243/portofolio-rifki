@@ -5,7 +5,7 @@ function Skills() {
     <section id="skills">
       <div className="container">
         <h2 className="section-title">Tools & Technologies</h2>
-        <p className="section-subtitle">Skill profesional yang saya kuasai.</p>
+        <p className="section-subtitle">Skill dan Tools yang lumayan saya kuasai.</p>
         <div className="skills-grid">
           {skills.map((skill) => (
             <div className="skill-card" key={skill.id}>
