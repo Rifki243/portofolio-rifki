@@ -19,8 +19,10 @@ function Hero() {
         >
           Download CV
         </a>
-        <a className="btn btn-secondary" href="#projects">
-          Lihat Project
+        <a className="btn btn-secondary" href="https://www.linkedin.com/in/muhamadrifkiardipriadi/"
+        target="_blank" rel="noopener noreferrer"
+        >
+          Linkedin
         </a>
       </div>
     </section>
