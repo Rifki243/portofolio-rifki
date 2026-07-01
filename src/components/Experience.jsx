@@ -4,7 +4,7 @@ function Experience() {
   return (
     <section id="experience">
       <div className="container">
-        <h2 className="section-title">Professional Experience</h2>
+        <h2 className="section-title">Experience</h2>
         <p className="section-subtitle">
           Pengalaman kerja dan organisasi yang relevan.
         </p>
