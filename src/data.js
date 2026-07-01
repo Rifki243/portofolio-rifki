@@ -49,22 +49,26 @@ export const experiences = [
     company: "Telkomsel, Jakarta, Indonesia",
     period: "Jul 2025 – Aug 2025",
     description:
-      "Melakukan Walk Test dan Customer Experience Testing untuk evaluasi performa jaringan, analisis cakupan jaringan dengan Nemo dan QGIS, serta mengembangkan project machine learning untuk deteksi Fake BTS.",
+      "Melakukan Walk Test dan Customer Experience Testing untuk evaluasi performa jaringan,\n" +
+      "analisis cakupan jaringan dengan Nemo dan QGIS, serta mengembangkan project machine learning\n" +
+      "untuk deteksi Fake BTS.",
   },
   {
     id: 2,
-    role: "Digital Signal Processing Laboratory Assistant",
-    company: "Telkom University Laboratory, Bandung, Indonesia",
-    period: "Apr 2025 – Apr 2026",
-    description:
-      "Memimpin divisi praktikum, membimbing 200+ mahasiswa memahami konsep DSP dan simulasi berbasis MATLAB, serta menyiapkan modul dan menilai performa mahasiswa.",
-  },
-  {
-    id: 3,
     role: "Machine Learning Engineer Cohort Student",
     company: "Coding Camp 2025 Powered by DBS Foundation, Bandung, Indonesia",
     period: "Feb 2025 – Jun 2025",
     description:
-      "Menyelesaikan 5+ project machine learning dan data analysis menggunakan Python, mencakup data preprocessing, exploratory data analysis (EDA), dan pengembangan model dasar.",
+      "Menyelesaikan 5+ project machine learning dan data analysis menggunakan Python, mencakup\n" +
+      "data preprocessing, exploratory data analysis (EDA), dan pengembangan model dasar.",
+  },
+  {
+    id: 3,
+    role: "Digital Signal Processing Laboratory Assistant",
+    company: "Telkom University Laboratory, Bandung, Indonesia",
+    period: "Apr 2025 – Apr 2026",
+    description:
+      "Memimpin divisi praktikum, membimbing 200+ mahasiswa memahami konsep DSP dan simulasi\n" +
+      "berbasis MATLAB, serta menyiapkan modul dan menilai performa mahasiswa.",
   },
 ];
