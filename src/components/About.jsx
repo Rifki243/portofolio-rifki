@@ -14,7 +14,7 @@ function About() {
         </p>
         <div className="stats">
           <div>
-            <div className="stat-number">4.00</div>
+            <div className="stat-number">???</div>
             <div className="stat-label">GPA / IPK</div>
           </div>
           <div>

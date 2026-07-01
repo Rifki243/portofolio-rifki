@@ -14,8 +14,8 @@ function Hero() {
       <div className="button-group">
         <a
           className="btn btn-primary"
-          href="/assets/CV.pdf"
-          download="CV_Muhamad_Rifki_Ardi_Priadi.pdf"
+          href="/assets/CV_Muhamad Rifki Ardi Priadi.pdf"
+          download="CV_Muhamad Rifki Ardi Priadi.pdf"
         >
           Download CV
         </a>
