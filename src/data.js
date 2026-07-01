@@ -5,7 +5,7 @@ export const skills = [
   { id: 4, name: "Visual Studio Code", icon: "/assets/tools/vscode.webp" },
   { id: 5, name: "React", icon: "/assets/tools/react.webp" },
   { id: 6, name: "Supabase", icon: "/assets/tools/supabase.webp" },
-  { id: 7, name: "Network Analysis (QGIS)", icon: "/assets/tools/qgis.png" },
+  { id: 7, name: "QGIS", icon: "/assets/tools/qgis.png" },
   { id: 8, name: "GitHub", icon: "/assets/tools/github.webp" },
   { id: 9, name: "Android Studio", icon: "/assets/tools/android.webp" },
   { id: 10, name: "Kotlin", icon: "/assets/tools/kotlin.png" },
